@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/drawable/call_button.xml" value="0.1671875" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/drawable/send_button.xml" value="0.1671875" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/activity_listitem.xml" value="0.1984375" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/activity_log.xml" value="0.1984375" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/emergency.xml" value="0.1515625" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/live.xml" value="0.1" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/message.xml" value="0.2" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/multi_image_item.xml" value="0.1" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/popup.xml" value="0.1" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/settings.xml" value="0.1" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/timelog.xml" value="0.1" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/upload.xml" value="0.1" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/menu/main.xml" value="0.28640776699029125" />
+        <entry key="..\:/Users/luluk/AndroidStudioProjects/MyApplicationn/app/src/main/res/menu/smenu.xml" value="0.1" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/drawable/imgbtn_bg.xml" value="0.2453125" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/drawable/message_border.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/drawable/send_button.xml" value="0.15" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/activity_register.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/intro.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/live.xml" value="0.4" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/loglist.xml" value="0.1" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/main.xml" value="0.11144883485309018" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/message.xml" value="0.1296875" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/settings.xml" value="0.1" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/setup.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/start.xml" value="0.1" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/timelog.xml" value="0.1" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/upload.xml" value="0.1" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/layout/video_each.xml" value="0.1" />
+        <entry key="..\:/Users/userJ/AndroidStudioProjects/MyApplicationn/app/src/main/res/menu/main.xml" value="0.2390625" />
+        <entry key="..\:/Users/userJ/Desktop/MyApplicationn/app/src/main/res/layout/activity.xml" value="0.4" />
+        <entry key="..\:/Users/userJ/Desktop/MyApplicationn/app/src/main/res/layout/activity_listitem.xml" value="0.3274695534506089" />
+        <entry key="..\:/Users/userJ/Desktop/MyApplicationn/app/src/main/res/layout/activity_log.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/userJ/Desktop/MyApplicationn/app/src/main/res/layout/activity_main.xml" value="0.72" />
+        <entry key="..\:/Users/userJ/Desktop/MyApplicationn/app/src/main/res/layout/emergency.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/userJ/Desktop/MyApplicationn/app/src/main/res/layout/settings.xml" value="0.11666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

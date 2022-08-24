@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f9fafc"     >
+
+    <TextView
+        android:id="@+id/app_title"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="150dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/register_person"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/app_title"
+        android:layout_marginLeft="50dp"
+        android:background="@drawable/sqsettings"
+        android:onClick="myListener" />
+
+    <Button
+        android:id="@+id/show_live"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/app_title"
+        android:layout_marginLeft="17dp"
+        android:layout_toRightOf="@id/register_person"
+        android:background="@drawable/sqlive"
+        android:onClick="myListener1" />
+
+    <Button
+        android:id="@+id/time_log"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/show_live"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="17dp"
+        android:background="@drawable/sqlog"
+        android:onClick="myListener2" />
+
+    <Button
+        android:id="@+id/emergency"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/show_live"
+        android:layout_marginLeft="17dp"
+        android:layout_marginTop="17dp"
+        android:layout_toRightOf="@id/time_log"
+        android:background="@drawable/sqemergency"
+        android:onClick="myListener3" />
+    <TextView
+        android:id="@+id/msg_token_fmt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="토큰 조회"
+        />
+
+
+
+</RelativeLayout>
