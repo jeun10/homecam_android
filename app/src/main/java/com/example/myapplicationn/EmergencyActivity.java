@@ -30,7 +30,7 @@ public class EmergencyActivity extends Activity {
             public void onClick(View v) {
 
                 // 전화 걸기
-                Intent mIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("tel:010-3362-9085"));
+                Intent mIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("tel:"));
                 startActivity(mIntent);
             }
         });
